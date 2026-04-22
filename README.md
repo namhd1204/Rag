@@ -24,4 +24,4 @@ RAG là phương pháp cho phép các mô hình AI:
 
 ## Sử dụng
 
-Nội dung được viết bởi NotebookLM
+Nội dung được viết bởi [NotebookLM](https://notebooklm.google.com/notebook/81b812c9-2f14-46b7-8515-89334f76649c) 
